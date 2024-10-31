@@ -1,0 +1,68 @@
+[
+    {
+        "numeroSessao": 19,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 01 - 14h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-30T14:42:22",
+        "dataSessaoString": "30/10/2024",
+        "dataFimSessao": "2024-10-30T15:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    },
+    {
+        "numeroSessao": 18,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 01 - 09h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-29T06:00:00",
+        "dataSessaoString": "29/10/2024",
+        "dataFimSessao": "2024-11-29T12:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    },
+    {
+        "numeroSessao": 17,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 01 - 11h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-29T12:00:00",
+        "dataSessaoString": "29/10/2024",
+        "dataFimSessao": "2024-10-29T15:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    },
+    {
+        "numeroSessao": 16,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 02 - 13h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-17T13:00:00",
+        "dataSessaoString": "17/10/2024",
+        "dataFimSessao": "2024-10-17T15:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    },
+    {
+        "numeroSessao": 16,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 01 - 15h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-17T15:00:00",
+        "dataSessaoString": "17/10/2024",
+        "dataFimSessao": "2024-10-17T17:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    },
+    {
+        "numeroSessao": 16,
+        "titulo": "Sessão - Tribunal do Pleno",
+        "local": "TCE-PR Sala de Evento 01 - 09h00",
+        "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
+        "dataSessao": "2024-10-17T09:00:00",
+        "dataSessaoString": "17/10/2024",
+        "dataFimSessao": "2024-10-17T13:00:00",
+        "ehPresencial": "N",
+        "ehVideoConferencia": "N"
+    }
+]
