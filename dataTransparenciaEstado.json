@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "municipio": "Curitiba",
+    "ano_base": 2024,
+    "itp_prefeitura": 39.5,
+    "itp_camara": 21,
+    "resultados": {
+      "educacao": 4.66,
+      "saude": 4.88,
+      "assistencia_social": 2.96,
+      "administracao_financeira": 2.56,
+      "previdencia": 2.56,
+      "transparencia": 8.9
+    },
+    "despesas": {
+      "prefeitura": {
+        "indice": 50.51,
+        "nivel": "Alerta 90%"
+      },
+      "camara": {
+        "indice": 1.95,
+        "nivel": "Cumpre"
+      },
+      "saude": {
+        "indice": 32.68,
+        "nivel": "Cumpre "
+      },
+      "educacao": {
+        "indice": 26.19,
+        "nivel": "Cumpre"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "municipio": "Londrina",
+    "ano_base": 2024,
+    "itp_prefeitura": 39.5,
+    "itp_camara": 21,
+    "resultados": {
+      "educacao": 4.66,
+      "saude": 4.88,
+      "assistencia_social": 2.96,
+      "administracao_financeira": 2.56,
+      "previdencia": 2.56,
+      "transparencia": 8.9
+    },
+    "despesas": {
+      "prefeitura": {
+        "indice": 50.51,
+        "nivel": "Alerta 90%"
+      },
+      "camara": {
+        "indice": 1.95,
+        "nivel": "Cumpre"
+      },
+      "saude": {
+        "indice": 32.68,
+        "nivel": "Cumpre "
+      },
+      "educacao": {
+        "indice": 26.19,
+        "nivel": "Cumpre"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "municipio": "Maringá",
+    "ano_base": 2024,
+    "itp_prefeitura": 39.5,
+    "itp_camara": 21,
+    "resultados": {
+      "educacao": 4.66,
+      "saude": 4.88,
+      "assistencia_social": 2.96,
+      "administracao_financeira": 2.56,
+      "previdencia": 2.56,
+      "transparencia": 8.9
+    },
+    "despesas": {
+      "prefeitura": {
+        "indice": 50.51,
+        "nivel": "Alerta 90%"
+      },
+      "camara": {
+        "indice": 1.95,
+        "nivel": "Cumpre"
+      },
+      "saude": {
+        "indice": 32.68,
+        "nivel": "Cumpre "
+      },
+      "educacao": {
+        "indice": 26.19,
+        "nivel": "Cumpre"
+      }
+    }
+  }
+]
